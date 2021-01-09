@@ -24134,3 +24134,13 @@ dac48e3fcb0f21a838a84e3c936e8181:
   nsfw: true
   original: false
   animated: true
+7af85c23c08ef9721d56dddbbadcfbbe:
+  key: 7c5d6ce79ce01a7f36a4437757bacb078aba980643b4e6bb2a225119518e3650
+  source: 'https://twitter.com/dcrstakey'
+  tags:
+    - Decred
+    - Stakey
+    - Crypto
+  nsfw: false
+  original: false
+  animated: false
